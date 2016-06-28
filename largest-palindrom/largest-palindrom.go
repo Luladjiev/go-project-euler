@@ -1,3 +1,4 @@
+// https://projecteuler.net/problem=4
 package main
 
 import (
